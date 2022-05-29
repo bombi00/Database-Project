@@ -5,8 +5,8 @@
 #define PG_HOST "127.0.0.1" // oppure "localhost" o "postgresql"
 #define PG_USER "postgres"  // il vostro nome utente
 <<<<<<< HEAD
-#define PG_DB "progetto"    // il nome del database
-#define PG_PASS "pippoipop"          // la vostra password
+#define PG_DB ""    // il nome del database
+#define PG_PASS ""          // la vostra password
 =======
 #define PG_DB "soundexp"    // il nome del database
 #define PG_PASS "Abc280102" // la vostra password
