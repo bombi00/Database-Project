@@ -83,5 +83,3 @@ JOIN pagamenti AS p
 GROUP BY pc.artista
 ORDER BY SUM(p.importo) DESC
 LIMIT 1);
-
--- artisti con il maggior numero di brani per ogni playlist (cambiare perche cosi non e' signifricativa)
